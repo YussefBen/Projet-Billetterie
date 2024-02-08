@@ -8,6 +8,7 @@
             </div>
             <div class="col-6 bg-dark">
                 Image
+                
             </div>
         </div>
     </section>
