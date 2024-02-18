@@ -1,3 +1,4 @@
+<?php include './vue/UI/Utilisateur/Header.php'; ?>
     
     <!-- CONTENU PAGE -->
     <section>
