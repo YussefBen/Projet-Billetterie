@@ -1,4 +1,3 @@
-<?php include './vue/UI/Utilisateur/Header.php'; ?>
     
     <!-- CONTENU PAGE -->
     <section>
@@ -12,5 +11,6 @@
         </div>
     </section>
 
+    <?php // include './vue/Footer.php'; ?>
 </body>
 </html>
