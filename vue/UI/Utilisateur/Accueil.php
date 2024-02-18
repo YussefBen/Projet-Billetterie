@@ -12,6 +12,5 @@
         </div>
     </section>
 
-    <?php // include './vue/Footer.php'; ?>
 </body>
 </html>
